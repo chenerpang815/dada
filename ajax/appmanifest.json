@@ -1,0 +1,10 @@
+{
+	"name": "ajaxexample1",
+	"short_name": "ajaxexample1",
+	"description": "12",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
